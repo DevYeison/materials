@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.e394f5c5.css","mappings":"AAAA,KAEI,WAAY,CADZ,QAAS,CAIT,iBAAkB,CADlB,iBAAkB,CADlB,UAGJ","sources":["App.css"],"sourcesContent":["body {\r\n    margin: 0;\r\n    height: 100%;\r\n    width: 100%;\r\n    overflow-y: hidden;\r\n    overflow-x: hidden;\r\n}\r\n"],"names":[],"sourceRoot":""}
